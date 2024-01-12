@@ -1,3 +1,8 @@
+"""
+Chatbot dedicado a la Unidad de Posgrados de la UNAM dedicado a mejorar la comunicación entre los usuarios 
+y la Unidad de Sistemas para la resolución de problemas técnicos y la prestación de asistencia.
+"""
+
 # Importación de las librerías necesarias
 import telebot
 from telebot import types
